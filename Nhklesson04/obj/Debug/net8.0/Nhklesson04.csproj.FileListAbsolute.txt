@@ -1,0 +1,9 @@
+D:\NetCode\K23CNT3_NguyenHongKien_NetCodeLearning\Nhklesson04\obj\Debug\net8.0\Nhklesson04.csproj.AssemblyReference.cache
+D:\NetCode\K23CNT3_NguyenHongKien_NetCodeLearning\Nhklesson04\obj\Debug\net8.0\Nhklesson04.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCode\K23CNT3_NguyenHongKien_NetCodeLearning\Nhklesson04\obj\Debug\net8.0\Nhklesson04.AssemblyInfoInputs.cache
+D:\NetCode\K23CNT3_NguyenHongKien_NetCodeLearning\Nhklesson04\obj\Debug\net8.0\Nhklesson04.AssemblyInfo.cs
+D:\NetCode\K23CNT3_NguyenHongKien_NetCodeLearning\Nhklesson04\obj\Debug\net8.0\Nhklesson04.csproj.CoreCompileInputs.cache
+D:\NetCode\K23CNT3_NguyenHongKien_NetCodeLearning\Nhklesson04\obj\Debug\net8.0\Nhklesson04.MvcApplicationPartsAssemblyInfo.cache
+D:\NetCode\K23CNT3_NguyenHongKien_NetCodeLearning\Nhklesson04\obj\Debug\net8.0\Nhklesson04.RazorAssemblyInfo.cache
+D:\NetCode\K23CNT3_NguyenHongKien_NetCodeLearning\Nhklesson04\obj\Debug\net8.0\Nhklesson04.RazorAssemblyInfo.cs
+D:\NetCode\K23CNT3_NguyenHongKien_NetCodeLearning\Nhklesson04\obj\Debug\net8.0\Nhklesson04.sourcelink.json
