@@ -1,0 +1,29 @@
+﻿@model IEnumerable<lesson05.Models.DataModels.NhkMember>;
+@{
+    ViewData["Title"] = "NhkIndex";
+}
+
+<h1>Danh Sach Member</h1>
+<table class="table table-bordered table-hover">
+	<thead>
+		<tr>
+			<th>Member Id</th>
+			<th>Member UserName</th>
+			<th>Member PassWord</th>
+			<th>Member FullName</th>
+			<th>Member Email</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var nhkItem in Model)
+		{
+			<tr>
+				<td>@nhkItem.NhkMemberId</td>
+				<td>@nhkItem.NhkUserName</td>
+				<td>@nhkItem.NhkPassWord</td>
+				<td>@nhkItem.NhkFullName</td>
+				<td>@nhkItem.NhkEmail</td>
+			</tr>
+		}
+	</tbody>	
+

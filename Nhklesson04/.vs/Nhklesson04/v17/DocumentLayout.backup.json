@@ -11,14 +11,6 @@
       "RelativeMoniker": "D:0:0:{DF88A86B-CCDE-4984-B120-FE717C7C7CF7}|Nhklesson04.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\obj\\Debug\\net8.0\\Nhklesson04.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Nhklesson04.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF88A86B-CCDE-4984-B120-FE717C7C7CF7}|Nhklesson04.csproj|d:\\netcode\\k23cnt3_nguyenhongkien_netcodelearning\\nhklesson04\\models\\nhkbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF88A86B-CCDE-4984-B120-FE717C7C7CF7}|Nhklesson04.csproj|solutionrelative:models\\nhkbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -90,8 +82,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -112,14 +108,14 @@
               "RelativeDocumentMoniker": "Controllers\\NhkBookController.cs",
               "ToolTip": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Controllers\\NhkBookController.cs",
               "RelativeToolTip": "Controllers\\NhkBookController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T11:56:41.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "NhkHomeController.cs",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Controllers\\NhkHomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\NhkHomeController.cs",
@@ -131,31 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:09:07.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Nhklesson04.AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\obj\\Debug\\net8.0\\Nhklesson04.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Nhklesson04.AssemblyInfo.cs",
-              "ToolTip": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\obj\\Debug\\net8.0\\Nhklesson04.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\Nhklesson04.AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:09:00.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -167,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Nhklesson04.ServiceDefaults.AssemblyInfo.cs",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Nhklesson04.ServiceDefaults\\obj\\Debug\\net8.0\\Nhklesson04.ServiceDefaults.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Nhklesson04.ServiceDefaults\\obj\\Debug\\net8.0\\Nhklesson04.ServiceDefaults.AssemblyInfo.cs",
@@ -179,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "NhkBook.cs",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Models\\NhkBook.cs",
               "RelativeDocumentMoniker": "Models\\NhkBook.cs",
@@ -191,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -203,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -215,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Views\\NhkHome\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\NhkHome\\_ViewStart.cshtml",
@@ -227,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "_Footer.cshtml",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Views\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
@@ -239,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "_Header.cshtml",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Views\\Shared\\_Header.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Header.cshtml",
@@ -251,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "_NhkLayout.cshtml",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Views\\Shared\\_NhkLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_NhkLayout.cshtml",
@@ -263,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -275,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "NhkIndex.cshtml",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Views\\NhkHome\\NhkIndex.cshtml",
               "RelativeDocumentMoniker": "Views\\NhkHome\\NhkIndex.cshtml",
@@ -287,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "_NhkLayout.cshtml.css",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Views\\Shared\\_NhkLayout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_NhkLayout.cshtml.css",
@@ -299,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "NhkAbout.cshtml",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Views\\NhkHome\\NhkAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\NhkHome\\NhkAbout.cshtml",
@@ -311,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -323,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\NetCode\\K23CNT3_NguyenHongKien_NetCodeLearning\\Nhklesson04\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
