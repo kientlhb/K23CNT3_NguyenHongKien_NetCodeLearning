@@ -1,0 +1,45 @@
+﻿@model NhkLab06.Models.NhkEmployee
+
+@{
+    ViewData["Title"] = "Thêm Nhân Viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="NhkCreate" method="post" class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="NhkName" class="form-label">Họ tên</label>
+        <input asp-for="NhkName" class="form-control" />
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="NhkBirthDay" class="form-label">Ngày sinh</label>
+        <input asp-for="NhkBirthDay" type="date" class="form-control" />
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="NhkEmail" class="form-label">Email</label>
+        <input asp-for="NhkEmail" class="form-control" />
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="NhkPhone" class="form-label">Số điện thoại</label>
+        <input asp-for="NhkPhone" class="form-control" />
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="NhkSalary" class="form-label">Lương</label>
+        <input asp-for="NhkSalary" class="form-control" />
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="NhkStatus" class="form-label">Đang làm?</label>
+        <input asp-for="NhkStatus" type="checkbox" class="form-check-input" />
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-success">Lưu</button>
+        <a href="/NhkEmployee/Index" class="btn btn-secondary">Quay lại</a>
+    </div>
+</form>
+

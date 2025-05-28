@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NhkLab06.props" />
+</Project>
