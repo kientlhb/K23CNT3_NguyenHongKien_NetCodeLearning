@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Nhklesson07.Models.NhkEmployee>
+
+@{
+    ViewData["Title"] = "Danh sach nhan vien";
+}
+
+<h1>Danh sach nhan vien</h1>
+
+<p>
+    <a asp-action="NhkCreate" class="btn btn-primary">Them Moi</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NhkId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhkName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhkBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhkEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhkPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhkSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhkStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhkId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhkName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhkBirthDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhkEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhkPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhkSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhkStatus)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "NhkEdit", new {  id=item.NhkId  }) |
+                @Html.ActionLink("Details", "NhkDetails", new { id = item.NhkId }) |
+                @Html.ActionLink("Delete", "NhkDelete", new { id = item.NhkId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

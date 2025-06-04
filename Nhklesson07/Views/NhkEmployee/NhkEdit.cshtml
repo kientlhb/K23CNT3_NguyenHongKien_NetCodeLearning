@@ -1,0 +1,59 @@
+﻿@model Nhklesson07.Models.NhkEmployee   
+
+@{
+    ViewData["Title"] = "Sua thong tin nhan vien";
+}
+
+<h1>Sua thong tin nhan vien</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="NhkEdit" asp-route-id="@Model.NhkId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NhkId" class="control-label"></label>
+                <input asp-for="NhkId" class="form-control" />
+                <span asp-validation-for="NhkId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhkName" class="control-label"></label>
+                <input asp-for="NhkName" class="form-control" />
+                <span asp-validation-for="NhkName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhkBirthDay" class="control-label"></label>
+                <input asp-for="NhkBirthDay" class="form-control" />
+                <span asp-validation-for="NhkBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhkEmail" class="control-label"></label>
+                <input asp-for="NhkEmail" class="form-control" />
+                <span asp-validation-for="NhkEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhkPhone" class="control-label"></label>
+                <input asp-for="NhkPhone" class="form-control" />
+                <span asp-validation-for="NhkPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhkSalary" class="control-label"></label>
+                <input asp-for="NhkSalary" class="form-control" />
+                <span asp-validation-for="NhkSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="NhkStatus" /> @Html.DisplayNameFor(model => model.NhkStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="NhkIndex">Back to List</a>
+</div>
+
